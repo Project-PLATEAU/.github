@@ -9,7 +9,7 @@ PLATEAUは、3D都市モデルの整備・活用・オープンデータ化を�
 オープン・イノベーションを創出していきます。
 
 Project PLATEAU リポジトリでは、プロジェクトの一環として開発した3D都市モデルに関する様々なツールやライブラリをOSSとして提供しています。
-リポジトリの一覧は[こちら]()をご参照ください。
+リポジトリの一覧は[こちら](https://github.com/Team-Project-PLATEAU/.github/wiki/PLATEAU-repositories)をご参照ください。
 
 - [PLATEAUウェブサイト](https://www.mlit.go.jp/plateau/)
 - [PLATEAU公式X（旧Twitter）](https://twitter.com/ProjectPlateau)
